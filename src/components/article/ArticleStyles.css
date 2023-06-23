@@ -1,0 +1,55 @@
+.advice{
+  color: #1ac49c;
+  font-size: 1.3rem;
+  margin: 0;
+  padding: 0;
+}
+.article{
+  background-color: #313A49;
+  width: 35rem;
+  height: 22rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  flex-direction: column;
+}
+
+
+
+.council{
+  width: 85%;
+  height: 50%;
+  margin: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.phrase{
+  color: #ffffff;
+}
+.icondesktop{
+  display: flex;
+  justify-content: center;
+}
+
+.desktop{
+  width: 30rem;
+  height: 1.5rem;
+  display: flex;
+  margin-bottom: 2.5rem;
+}
+
+.btn{
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+  border: none;
+  position: absolute;
+  margin-top: 22rem;
+  background-color: #1ac49c;
+  cursor: pointer;
+}
